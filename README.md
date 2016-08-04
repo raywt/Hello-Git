@@ -1,3 +1,3 @@
 # Hello-Git
-practice git repo \n
+practice git repo  
 making an edit on GitHub
